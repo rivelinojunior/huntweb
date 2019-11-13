@@ -1,5 +1,7 @@
 This is a study project that went made from Rocketseat [tutorial](https://rocketseat.com.br/starter/curso-gratuito-reactjs) about ReactJS
 
+![Screenshot](public/screenshot.png)
+
 ## Running
 
 The comand `yarn start` or `npm start` runs the app in the development mode.<br />
